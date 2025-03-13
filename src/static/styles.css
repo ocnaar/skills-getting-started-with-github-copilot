@@ -74,6 +74,11 @@ section h3 {
   margin-bottom: 8px;
 }
 
+.activity-card .participants {
+  font-style: italic;
+  color: #555;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
